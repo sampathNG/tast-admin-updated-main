@@ -1,0 +1,13 @@
+.custom-table .ant-table-thead > tr > th {
+    background-color: #FFB200 !important;
+    border: none;
+  }
+.blue-table .ant-table-thead > tr > th {
+    background-color: #172554 !important;
+    border: none;
+    
+  }
+  .blue-table th {
+    color: white !important; 
+    text-align: center;
+  }
